@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(206, 212, 218);
+}
+#hed{
+    width: 90%;
+    height: 50rem;
+    align-items: center;
+    margin-left: 5%;
+    background-color: rgb(112, 103, 84);
+}
+.had{
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    padding: auto;
+
+}
+.log a{
+    float: left;
+    margin-left: 3%;
+    justify-content: space-between;
+}
+#hed img {
+    width: min(10%,46px);
+    height: auto;
+    border-radius: 50%;
+    float: left;
+}
+#hed a{
+    text-decoration: none;
+    margin-left: 2%;
+    font-size: 25px;
+    height: auto;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    cursor: pointer;
+} 
+.number{
+    justify-content: space-evenly;
+    margin-left: 70%;
+}
+.number button{
+    width: 150px;
+    height: 3rem;
+    border-radius: 10px;
+    background-color: rgb(69, 72, 255);
+    border: 1px solid rgb(50, 50, 226);
+    font-size: 20px;
+    cursor: pointer;
+}
+.number a .butt{
+    background-color: white;
+    border: 2px solid white;
+}
