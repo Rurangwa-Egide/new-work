@@ -34,9 +34,9 @@ body{
 #hed a{
     text-decoration: none;
     margin-left: 2%;
-    font-size: 25px;
+    font-size: 22px;
     height: auto;
-    color: white;
+    color: skyblue;
     font-family: 'Times New Roman', Times, serif;
     text-transform: capitalize;
     cursor: pointer;
